@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate full-stack developer from Washington State</h3>
 
-- 🔭 I’m currently working on [Henry's Space Odyssey](https://henrysnasasite.netlify.app/index.html)
+- 🔭 I’m currently working on [Henry's Space Odyssey](https://henryspaceodyssey.netlify.app/)
 
 - 🌱 I’m currently learning **Node, React, and SQL**
 

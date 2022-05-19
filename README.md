@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning **Node, React, and SQL**
 
-- 👨‍💻 All of my projects are available at [davidmott.netlify.app/](https://davidmott.netlify.app/)
+- 👨‍💻 All of my projects are available, and I can be reached at [davidmott.netlify.app/](https://davidmott.netlify.app/)
 
-- 📫 How to reach me **d.s.mott0808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

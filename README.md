@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning **Node, React, and SQL**
 
 - 👨‍💻 All of my projects are available on my <a href="https://davidmott.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=#61DAFB&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a> and I can be reached at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hi-imdave)
 
 <h3 align="left">Languages and Tools:</h3>

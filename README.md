@@ -4,6 +4,7 @@
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/hi-imdave">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=#61DAFB&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <div align="center">

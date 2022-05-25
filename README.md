@@ -46,11 +46,14 @@
 ---
 
 <h1 align="center">:fire: My Stats</h1>
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hi-ImDave&theme=dark&background=000000&currStreakNum=00FF00&sideNums=0000FF&currStreakLabel=00FF00)](https://git.io/streak-stats)
+</div>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-ImDave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">

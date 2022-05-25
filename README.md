@@ -27,7 +27,8 @@
 ---
 
 <h1 align="center">:man_technologist: About Me</h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
+
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
 
 - 🔭 I’m currently working on [Henry's Space Odyssey](https://henryspaceodyssey.netlify.app/)
 

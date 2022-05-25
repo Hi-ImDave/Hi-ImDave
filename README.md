@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hi-imdave/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://davidmott.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://davidmott.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  <a href="www.linkedin.com/in/hi-imdave" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/david-mott-4" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>

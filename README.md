@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="images/header.png" width="600" height="300"/>
 </div>
-
+<h1 align="center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+  , I'm Dave
+</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
+</div>
 <div id="badges" align="center">
   <a href="https://davidmott.netlify.app/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -16,14 +23,6 @@
 <div align="center">
   <img  src="https://komarev.com/ghpvc/?username=Hi-ImDave&style=flat-square&color=blue" alt=""/>
 </div> 
-<h1 align="center">
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
-  , I'm Dave
-</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
-</div>
 
 ---
 

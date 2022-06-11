@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on [Henry's Space Odyssey](https://henryspaceodyssey.netlify.app/)
 
-- 🌱 I’m currently learning **Node, React, and SQL**
+- 🌱 I’m currently learning **Node, and React**
 
 - 👨‍💻 All of my projects are available on my <a href="https://davidmott.netlify.app/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -61,8 +61,15 @@
 <h1 align="center">:fire: My Stats</h1>
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hi-ImDave&theme=dark&background=000000&currStreakNum=00FF00&sideNums=0000FF&currStreakLabel=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hi-ImDave&theme=nightowl)](https://git.io/streak-stats)
 </div>
+
+<div align='center'>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-ImDave&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-ImDave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

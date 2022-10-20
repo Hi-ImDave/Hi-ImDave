@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://davidmott.netlify.app/index.html" target="_blank">
+  <a href="https://dmott-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="www.linkedin.com/in/hi-imdave" target="_blank">
@@ -22,7 +22,7 @@
 </div>
 <div align="center">
   <img  src="https://komarev.com/ghpvc/?username=Hi-ImDave&style=plastic-square&color=blue" alt=""/>
-</div> 
+</div>
 
 ---
 
@@ -30,12 +30,12 @@
 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
 
-- 🔭 I’m currently working on [Henry's Space Odyssey](https://henryspaceodyssey.netlify.app/)
+- 🔭 I’m currently working on [Henry's Space Odyssey](https://vercel.com/hi-imdave/hso-react)
 
 - 🌱 I’m currently learning **Node, and React**
 
-- 👨‍💻 All of my projects are available on my <a href="https://davidmott.netlify.app/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+- 👨‍💻 All of my projects are available on my <a href="https://dmott-dev.vercel.app/projects" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> and I can be reached at [![Linkedin Badge](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/hi-imdave/)
 
 ---
@@ -70,6 +70,7 @@
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hi-ImDave&theme=nightowl)](https://git.io/streak-stats)
+
 </div>
 
 <div align='center'>
@@ -81,6 +82,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-ImDave&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h1 align="center">Projects</h1>
@@ -90,16 +92,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Henry's Space Odyssey</h3>
         <br />
-        <a target="_blank" href="https://henryspaceodyssey.netlify.app/">
+        <a target="_blank" href="https://hso-react.vercel.app/">
             <img src="images/hnsGif.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Hi-ImDave/henrySpaceOdyssey" target="_blank">
+  <a href="https://github.com/Hi-ImDave/hso-react" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://henryspaceodyssey.netlify.app/" target="_blank">
+  <a href="https://hso-react.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -108,20 +110,20 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br />
-      <a target="_blank" href="https://davidmott.netlify.app/index.html">
-            <img src="images/portfolioGif.gif" width="100%"  alt="Portfolio"/>
+      <a target="_blank" href="https://dmott-dev.vercel.app/">
+            <img src="images/portfolio.png" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Hi-ImDave/myPortfolio" target="_blank">
+  <a href="https://github.com/Hi-ImDave/react-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://davidmott.netlify.app/index.html" target="_blank">
+  <a href="https://dmott-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML, TailwindCSS, Javascript & React</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
   
@@ -163,9 +165,7 @@
   </tr> -->
 </table>
 
-
 <!-- <h1 align="center">Technologies</h1> -->
-
 
 <!-- <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -190,17 +190,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p> -->
 
-
-
 ---
-
 
 <h1 align="center">Connect</h1>
 
-
-
 <p align="center">
-  <a href="https://davidmott.netlify.app/index.html" target="_blank">
+  <a href="https://dmott-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="www.linkedin.com/in/hi-imdave" target="_blank">

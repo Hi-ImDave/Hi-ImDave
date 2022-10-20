@@ -93,7 +93,7 @@
       <h3 align="center">Henry's Space Odyssey</h3>
         <br />
         <a target="_blank" href="https://hso-react.vercel.app/">
-            <img src="images/hnsGif.gif" width="100%" alt="Travel App"/>
+            <img src="images/hsoApp.png" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">

@@ -30,7 +30,7 @@
 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
 
-- 🔭 I’m currently working on [Henry's Space Odyssey](https://vercel.com/hi-imdave/hso-react)
+- 🔭 I’m currently working on [Henry's Space Odyssey](https://hso-react.vercel.app/)
 
 - 🌱 I’m currently learning **Node, and React**
 

@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   , I'm Dave
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://dmott-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -30,9 +28,9 @@
 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
 
-- 🔭 I’m currently working on [Henry's Space Odyssey](https://hso-react.vercel.app/)
+- 🔭 I’m currently working on [Authenitication Module]() It's not currently hosted, but I promise it will be soon!
 
-- 🌱 I’m currently learning **Node, and React**
+- 🌱 I’m currently learning **Redux, and TypeScript**
 
 - 👨‍💻 All of my projects are available on my <a href="https://dmott-dev.vercel.app/projects" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>

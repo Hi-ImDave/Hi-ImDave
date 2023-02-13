@@ -28,13 +28,15 @@
 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Washington State.
 
+- I primarily work with React and Node
+
 - 🔭 I’m currently working on an [Authenitication Module](). It's not currently hosted, but I promise it will be soon!
 
-- 🌱 I’m currently learning **Redux, and TypeScript**
+- 🌱 I’m currently learning **Redux, and TypeScript** while going to school for a Bachelor's in Cybersecurity.
 
-- 👨‍💻 All of my projects are available on my <a href="https://dmott-dev.vercel.app/projects" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> and I can be reached at [![Linkedin Badge](https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white)](https://www.linkedin.com/in/hi-imdave/)
+- 👨‍💻 All of my projects are available here and on my <a href="https://dmott-dev.vercel.app/projects" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 
 ---
 
